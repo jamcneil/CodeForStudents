@@ -1,0 +1,5 @@
+/Users/judymcneil/Projects/ExpandableList/ExpandableList/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/judymcneil/Projects/ExpandableList/ExpandableList/bin/Debug/ExpandableList.dll.mdb
+/Users/judymcneil/Projects/ExpandableList/ExpandableList/bin/Debug/ExpandableList.dll
+/Users/judymcneil/Projects/ExpandableList/ExpandableList/obj/Debug/ExpandableList.dll
+/Users/judymcneil/Projects/ExpandableList/ExpandableList/obj/Debug/ExpandableList.dll.mdb

@@ -1,0 +1,12 @@
+ExpandListView.MainActivity, ExpandListView;md599f93f7470db11712259203ef36393fc.MainActivity
+ExpandListView.MainActivity, ExpandListView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md599f93f7470db11712259203ef36393fc.MainActivity
+ExpandListView.MainActivity;md599f93f7470db11712259203ef36393fc.MainActivity
+expandlistview.MainActivity;md599f93f7470db11712259203ef36393fc.MainActivity
+ExpandListView.ViewHolder, ExpandListView;md599f93f7470db11712259203ef36393fc.ViewHolder
+ExpandListView.ViewHolder, ExpandListView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md599f93f7470db11712259203ef36393fc.ViewHolder
+ExpandListView.ViewHolder;md599f93f7470db11712259203ef36393fc.ViewHolder
+expandlistview.ViewHolder;md599f93f7470db11712259203ef36393fc.ViewHolder
+GalaSoft.MvvmLight.Helpers.ObservableAdapter`1, ExpandListView;md5daf79ba53fecfe6be0bac4649f8199e3.ObservableAdapter_1
+GalaSoft.MvvmLight.Helpers.ObservableAdapter`1, ExpandListView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5daf79ba53fecfe6be0bac4649f8199e3.ObservableAdapter_1
+GalaSoft.MvvmLight.Helpers.ObservableAdapter`1;md5daf79ba53fecfe6be0bac4649f8199e3.ObservableAdapter_1
+galasoft.mvvmlight.helpers.ObservableAdapter_1;md5daf79ba53fecfe6be0bac4649f8199e3.ObservableAdapter_1
