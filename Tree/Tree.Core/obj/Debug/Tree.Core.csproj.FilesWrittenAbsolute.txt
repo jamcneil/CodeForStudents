@@ -1,0 +1,5 @@
+/Users/judymcneil/Projects/Tree/Tree.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/judymcneil/Projects/Tree/Tree.Core/bin/Debug/Tree.Core.dll.mdb
+/Users/judymcneil/Projects/Tree/Tree.Core/bin/Debug/Tree.Core.dll
+/Users/judymcneil/Projects/Tree/Tree.Core/obj/Debug/Tree.Core.dll
+/Users/judymcneil/Projects/Tree/Tree.Core/obj/Debug/Tree.Core.dll.mdb

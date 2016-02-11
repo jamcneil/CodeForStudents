@@ -1,0 +1,12 @@
+Tree.Droid.MainActivity, Tree.Droid;md50e9c8529ee4a0451ca71ef87c9d5a2c2.MainActivity
+Tree.Droid.MainActivity, Tree.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e9c8529ee4a0451ca71ef87c9d5a2c2.MainActivity
+Tree.Droid.MainActivity;md50e9c8529ee4a0451ca71ef87c9d5a2c2.MainActivity
+tree.droid.MainActivity;md50e9c8529ee4a0451ca71ef87c9d5a2c2.MainActivity
+Tree.Droid.ViewHolder, Tree.Droid;md50e9c8529ee4a0451ca71ef87c9d5a2c2.ViewHolder
+Tree.Droid.ViewHolder, Tree.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e9c8529ee4a0451ca71ef87c9d5a2c2.ViewHolder
+Tree.Droid.ViewHolder;md50e9c8529ee4a0451ca71ef87c9d5a2c2.ViewHolder
+tree.droid.ViewHolder;md50e9c8529ee4a0451ca71ef87c9d5a2c2.ViewHolder
+GalaSoft.MvvmLight.Helpers.ObservableAdapter`1, Tree.Droid;md50a7e37084db9ca1c754062bdff623f28.ObservableAdapter_1
+GalaSoft.MvvmLight.Helpers.ObservableAdapter`1, Tree.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50a7e37084db9ca1c754062bdff623f28.ObservableAdapter_1
+GalaSoft.MvvmLight.Helpers.ObservableAdapter`1;md50a7e37084db9ca1c754062bdff623f28.ObservableAdapter_1
+galasoft.mvvmlight.helpers.ObservableAdapter_1;md50a7e37084db9ca1c754062bdff623f28.ObservableAdapter_1
