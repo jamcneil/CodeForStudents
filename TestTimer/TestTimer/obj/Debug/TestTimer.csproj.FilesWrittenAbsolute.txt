@@ -1,0 +1,17 @@
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/MonoAndroid,Version=v7.0.AssemblyAttribute.cs
+/Users/judymcneil/Projects/TestTimer/TestTimer/bin/Debug/TestTimer.dll.mdb
+/Users/judymcneil/Projects/TestTimer/TestTimer/bin/Debug/TestTimer.dll
+/Users/judymcneil/Projects/TestTimer/TestTimer/bin/Debug/com.xamarin.testtimer.apk
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/android/bin/com.xamarin.testtimer.apk
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/res/layout/main.xml
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/res/values/strings.xml
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/R.cs.flag
+/Users/judymcneil/Projects/TestTimer/TestTimer/bin/Debug/com.xamarin.testtimer-Signed.apk
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/uploadflags.txt
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/TestTimer.dll
+/Users/judymcneil/Projects/TestTimer/TestTimer/obj/Debug/TestTimer.dll.mdb

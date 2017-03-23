@@ -1,0 +1,12 @@
+TestTimer.MainActivity, TestTimer;md50a6d2e25c3099f84ff1bdebbad4f41de.MainActivity
+TestTimer.MainActivity, TestTimer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50a6d2e25c3099f84ff1bdebbad4f41de.MainActivity
+TestTimer.MainActivity;md50a6d2e25c3099f84ff1bdebbad4f41de.MainActivity
+testtimer.MainActivity;md50a6d2e25c3099f84ff1bdebbad4f41de.MainActivity
+TestTimer.MyTimer, TestTimer;md50a6d2e25c3099f84ff1bdebbad4f41de.MyTimer
+TestTimer.MyTimer, TestTimer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50a6d2e25c3099f84ff1bdebbad4f41de.MyTimer
+TestTimer.MyTimer;md50a6d2e25c3099f84ff1bdebbad4f41de.MyTimer
+testtimer.MyTimer;md50a6d2e25c3099f84ff1bdebbad4f41de.MyTimer
+TestTimer.SecondActivity, TestTimer;md50a6d2e25c3099f84ff1bdebbad4f41de.SecondActivity
+TestTimer.SecondActivity, TestTimer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50a6d2e25c3099f84ff1bdebbad4f41de.SecondActivity
+TestTimer.SecondActivity;md50a6d2e25c3099f84ff1bdebbad4f41de.SecondActivity
+testtimer.SecondActivity;md50a6d2e25c3099f84ff1bdebbad4f41de.SecondActivity
