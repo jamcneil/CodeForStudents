@@ -1,0 +1,16 @@
+TestForR.MainActivity, TestForR;md5bdf1efc4aa986e3ba5b6902d96f2176e.MainActivity
+TestForR.MainActivity, TestForR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bdf1efc4aa986e3ba5b6902d96f2176e.MainActivity
+TestForR.MainActivity;md5bdf1efc4aa986e3ba5b6902d96f2176e.MainActivity
+testforr.MainActivity;md5bdf1efc4aa986e3ba5b6902d96f2176e.MainActivity
+TestForR.ListFragment, TestForR;md5bdf1efc4aa986e3ba5b6902d96f2176e.ListFragment
+TestForR.ListFragment, TestForR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bdf1efc4aa986e3ba5b6902d96f2176e.ListFragment
+TestForR.ListFragment;md5bdf1efc4aa986e3ba5b6902d96f2176e.ListFragment
+testforr.ListFragment;md5bdf1efc4aa986e3ba5b6902d96f2176e.ListFragment
+TestForR.CustomListAdapter, TestForR;md5bdf1efc4aa986e3ba5b6902d96f2176e.CustomListAdapter
+TestForR.CustomListAdapter, TestForR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bdf1efc4aa986e3ba5b6902d96f2176e.CustomListAdapter
+TestForR.CustomListAdapter;md5bdf1efc4aa986e3ba5b6902d96f2176e.CustomListAdapter
+testforr.CustomListAdapter;md5bdf1efc4aa986e3ba5b6902d96f2176e.CustomListAdapter
+TestForR.TimeFragment, TestForR;md5bdf1efc4aa986e3ba5b6902d96f2176e.TimeFragment
+TestForR.TimeFragment, TestForR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bdf1efc4aa986e3ba5b6902d96f2176e.TimeFragment
+TestForR.TimeFragment;md5bdf1efc4aa986e3ba5b6902d96f2176e.TimeFragment
+testforr.TimeFragment;md5bdf1efc4aa986e3ba5b6902d96f2176e.TimeFragment

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E94F564C-7278-48C6-A4C9-18A9095415D9}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestForR AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.AVD_for_Nexus_5_by_Google" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TestForR/MainActivity.cs" Line="23" Column="19" />
+      <File FileName="TestForR/ListFragment.cs" Line="46" Column="10" />
+      <File FileName="TestForR/TestData.cs" Line="5" Column="21" />
+      <File FileName="TestForR/CustomListAdapter.cs" Line="145" Column="6" />
+      <File FileName="TestForR/TimeFragment.cs" Line="13" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

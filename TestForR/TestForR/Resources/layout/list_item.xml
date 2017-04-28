@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="50dp"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:id="@+id/empId"
+        android:textColor="#404040"
+        android:layout_alignParentLeft="true" />
+    <AutoCompleteTextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/AutoCompleteInput"
+        android:layout_toRightOf="@id/empId" />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:id="@+id/timeinput"
+        android:textColor="#404040"
+        android:layout_toRightOf="@+id/AutoCompleteInput" />
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/demoImageView"
+        android:src="@drawable/icon"
+        android:scaleType="fitCenter"
+        android:layout_toRightOf="@+id/timeinput" />
+</RelativeLayout>
