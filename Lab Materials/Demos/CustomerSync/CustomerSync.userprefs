@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{17B432FF-1CAA-49B3-A02C-195F5228199D}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Xamarin_220Forms_220App.CustomerSync.Droid PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Xamarin_220Forms_220App.CustomerSync.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1320E7E3-1DD7-4B48-AD5E-D51811776050" />
+  <MultiItemStartupConfigurations />
+</Properties>

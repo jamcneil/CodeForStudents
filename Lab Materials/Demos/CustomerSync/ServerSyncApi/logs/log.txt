@@ -1,0 +1,58 @@
+DEBUG 2015-04-21 11:21:22,934 47200ms CustomersController    Get                - Get Customers
+DEBUG 2015-04-21 11:21:23,256 47522ms CustomerDataSync       GetCustomers       - GetCustomers: [
+	
+]
+DEBUG 2015-04-21 11:21:35,218 59484ms CustomersController    Get                - Get Customers
+DEBUG 2015-04-21 11:21:35,219 59485ms CustomerDataSync       GetCustomers       - GetCustomers: [
+	
+]
+DEBUG 2015-04-21 11:21:40,958 65224ms CustomersController    Post               - Post [
+	{
+		Name: New Customer,
+		Company: "",
+		Title: "",
+		Email: "",
+		Phone: "",
+		Notes: "",
+		Id: 0,
+		VersionNumber: 1,
+		CreateDateTime: 2015-04-21T11:21:34.1882390+02:00,
+		LastUpdateDateTime: 2015-04-21T11:21:34.1882390+02:00,
+		DeletedDateTime: 2015-04-21T11:21:34.1882390+02:00,
+		IsDeleted: False,
+		CorrelationId: 44fc4d7a-0cd2-4ed2-9d67-df2669db9c5c
+	}
+]
+DEBUG 2015-04-21 11:21:40,975 65241ms CustomerDataSync       Insert             - Insert {
+	Name: New Customer,
+	Company: "",
+	Title: "",
+	Email: "",
+	Phone: "",
+	Notes: "",
+	Id: 0,
+	VersionNumber: 1,
+	CreateDateTime: 2015-04-21T11:21:34.1882390+02:00,
+	LastUpdateDateTime: 2015-04-21T11:21:34.1882390+02:00,
+	DeletedDateTime: 2015-04-21T11:21:34.1882390+02:00,
+	IsDeleted: False,
+	CorrelationId: 44fc4d7a-0cd2-4ed2-9d67-df2669db9c5c
+}
+DEBUG 2015-04-21 11:21:49,878 74144ms CustomersController    Get                - Get Customers
+DEBUG 2015-04-21 11:21:49,879 74145ms CustomerDataSync       GetCustomers       - GetCustomers: [
+	{
+		Name: New Customer,
+		Company: "",
+		Title: "",
+		Email: "",
+		Phone: "",
+		Notes: "",
+		Id: 1,
+		VersionNumber: 1,
+		CreateDateTime: 2015-04-21T11:21:34.1882390+02:00,
+		LastUpdateDateTime: 2015-04-21T11:21:34.1882390+02:00,
+		DeletedDateTime: 2015-04-21T11:21:34.1882390+02:00,
+		IsDeleted: False,
+		CorrelationId: 44fc4d7a-0cd2-4ed2-9d67-df2669db9c5c
+	}
+]
